@@ -1,0 +1,39 @@
+com.example.chat_app-jetified-credentials-1.2.0-rc01-0 C:\Users\p.brugnola\.gradle\caches\transforms-3\188dcd5630b2c743bcc3dc704fdfb3ce\transformed\jetified-credentials-1.2.0-rc01\res
+com.example.chat_app-lifecycle-livedata-core-2.7.0-1 C:\Users\p.brugnola\.gradle\caches\transforms-3\1b6dca0d656e6e109da99542a9eb65d2\transformed\lifecycle-livedata-core-2.7.0\res
+com.example.chat_app-lifecycle-viewmodel-2.7.0-2 C:\Users\p.brugnola\.gradle\caches\transforms-3\1f5501c2d9350ed4fe1d87d680205ce7\transformed\lifecycle-viewmodel-2.7.0\res
+com.example.chat_app-jetified-core-1.0.0-3 C:\Users\p.brugnola\.gradle\caches\transforms-3\26139b5b2759afe36108ff1f1c9ba6d3\transformed\jetified-core-1.0.0\res
+com.example.chat_app-jetified-lifecycle-livedata-core-ktx-2.7.0-4 C:\Users\p.brugnola\.gradle\caches\transforms-3\289b974bfb355268f257168600e4da5d\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\res
+com.example.chat_app-jetified-tracing-1.2.0-5 C:\Users\p.brugnola\.gradle\caches\transforms-3\3fc7c11d7993da8cd7fee29e5f773422\transformed\jetified-tracing-1.2.0\res
+com.example.chat_app-fragment-1.7.1-6 C:\Users\p.brugnola\.gradle\caches\transforms-3\49a0d46652d064ad4e3b593197cce1be\transformed\fragment-1.7.1\res
+com.example.chat_app-browser-1.4.0-7 C:\Users\p.brugnola\.gradle\caches\transforms-3\6397847d1bfa10b280f2a385d415a857\transformed\browser-1.4.0\res
+com.example.chat_app-core-runtime-2.2.0-8 C:\Users\p.brugnola\.gradle\caches\transforms-3\64b0f3b9d1a1fe2ccf024d9e9224f5a6\transformed\core-runtime-2.2.0\res
+com.example.chat_app-jetified-play-services-basement-18.4.0-9 C:\Users\p.brugnola\.gradle\caches\transforms-3\692364bd1e5ff354f58f6148cae21765\transformed\jetified-play-services-basement-18.4.0\res
+com.example.chat_app-core-1.13.1-10 C:\Users\p.brugnola\.gradle\caches\transforms-3\806cf5c6769663d7b8146f34bf7de9aa\transformed\core-1.13.1\res
+com.example.chat_app-jetified-savedstate-1.2.1-11 C:\Users\p.brugnola\.gradle\caches\transforms-3\9164d5e8ca86e33e83ba329e547ee7b0\transformed\jetified-savedstate-1.2.1\res
+com.example.chat_app-jetified-window-1.2.0-12 C:\Users\p.brugnola\.gradle\caches\transforms-3\949abe3aeafeaaedb7aa86ea92e1044c\transformed\jetified-window-1.2.0\res
+com.example.chat_app-jetified-firebase-common-21.0.0-13 C:\Users\p.brugnola\.gradle\caches\transforms-3\952fe3521fcffc334d3d9daf405944fa\transformed\jetified-firebase-common-21.0.0\res
+com.example.chat_app-lifecycle-livedata-2.7.0-14 C:\Users\p.brugnola\.gradle\caches\transforms-3\980a28e63e4e71f9d8c79d2c2c0c0eae\transformed\lifecycle-livedata-2.7.0\res
+com.example.chat_app-jetified-profileinstaller-1.3.1-15 C:\Users\p.brugnola\.gradle\caches\transforms-3\9ba29ba851b7e0da3adb5e80fc46b033\transformed\jetified-profileinstaller-1.3.1\res
+com.example.chat_app-jetified-activity-1.8.1-16 C:\Users\p.brugnola\.gradle\caches\transforms-3\a603827744b0c4ce1ef3ad98796dc714\transformed\jetified-activity-1.8.1\res
+com.example.chat_app-lifecycle-runtime-2.7.0-17 C:\Users\p.brugnola\.gradle\caches\transforms-3\a76c4fe1564f6ae8f26545d2173e1597\transformed\lifecycle-runtime-2.7.0\res
+com.example.chat_app-jetified-annotation-experimental-1.4.0-18 C:\Users\p.brugnola\.gradle\caches\transforms-3\ab7fe8f5f0312cc8d828fce83e37851d\transformed\jetified-annotation-experimental-1.4.0\res
+com.example.chat_app-jetified-lifecycle-viewmodel-savedstate-2.7.0-19 C:\Users\p.brugnola\.gradle\caches\transforms-3\ac7779f38b778efc5c6186395c710219\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\res
+com.example.chat_app-jetified-startup-runtime-1.1.1-20 C:\Users\p.brugnola\.gradle\caches\transforms-3\b730022d66a5add4bbdd0895b1240519\transformed\jetified-startup-runtime-1.1.1\res
+com.example.chat_app-jetified-core-common-2.0.3-21 C:\Users\p.brugnola\.gradle\caches\transforms-3\b951e424a29e15cb238797ad3d82b204\transformed\jetified-core-common-2.0.3\res
+com.example.chat_app-jetified-window-java-1.2.0-22 C:\Users\p.brugnola\.gradle\caches\transforms-3\c5e3eea77fb85a8eb499de638692c8c8\transformed\jetified-window-java-1.2.0\res
+com.example.chat_app-jetified-credentials-play-services-auth-1.2.0-rc01-23 C:\Users\p.brugnola\.gradle\caches\transforms-3\cb86ea89ebf065351189e01363de26b2\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\res
+com.example.chat_app-jetified-play-services-base-18.0.1-24 C:\Users\p.brugnola\.gradle\caches\transforms-3\e23f7822380035114d00554f77d2729b\transformed\jetified-play-services-base-18.0.1\res
+com.example.chat_app-jetified-core-ktx-1.13.1-25 C:\Users\p.brugnola\.gradle\caches\transforms-3\e82f2685d89c505d5320805c66b6eee0\transformed\jetified-core-ktx-1.13.1\res
+com.example.chat_app-jetified-play-services-auth-20.7.0-26 C:\Users\p.brugnola\.gradle\caches\transforms-3\ebca23f7c1aea4881101deb20c55dd90\transformed\jetified-play-services-auth-20.7.0\res
+com.example.chat_app-jetified-lifecycle-process-2.7.0-27 C:\Users\p.brugnola\.gradle\caches\transforms-3\ecdf3d4d73019093c0182316b29181af\transformed\jetified-lifecycle-process-2.7.0\res
+com.example.chat_app-debug-28 C:\Users\p.brugnola\Desktop\flutter_projects\Chat App\android\app\src\debug\res
+com.example.chat_app-main-29 C:\Users\p.brugnola\Desktop\flutter_projects\Chat App\android\app\src\main\res
+com.example.chat_app-pngs-30 C:\Users\p.brugnola\Desktop\flutter_projects\Chat App\build\app\generated\res\pngs\debug
+com.example.chat_app-res-31 C:\Users\p.brugnola\Desktop\flutter_projects\Chat App\build\app\generated\res\processDebugGoogleServices
+com.example.chat_app-resValues-32 C:\Users\p.brugnola\Desktop\flutter_projects\Chat App\build\app\generated\res\resValues\debug
+com.example.chat_app-packageDebugResources-33 C:\Users\p.brugnola\Desktop\flutter_projects\Chat App\build\app\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.chat_app-packageDebugResources-34 C:\Users\p.brugnola\Desktop\flutter_projects\Chat App\build\app\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.chat_app-merged_res-35 C:\Users\p.brugnola\Desktop\flutter_projects\Chat App\build\app\intermediates\merged_res\debug
+com.example.chat_app-packaged_res-36 C:\Users\p.brugnola\Desktop\flutter_projects\Chat App\build\cloud_firestore\intermediates\packaged_res\debug
+com.example.chat_app-packaged_res-37 C:\Users\p.brugnola\Desktop\flutter_projects\Chat App\build\firebase_auth\intermediates\packaged_res\debug
+com.example.chat_app-packaged_res-38 C:\Users\p.brugnola\Desktop\flutter_projects\Chat App\build\firebase_core\intermediates\packaged_res\debug
